@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authors xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+  <author>
+    <keyname>AnotherAuthor</keyname>
+    <forenames>L. M.</forenames>
+    <suffix>II</suffix>
+    <affiliation>CREST, Japan Science and Technology Agency</affiliation>
+  </author>
+  <author>
+    <keyname>Surname</keyname>
+    <forenames>Some other</forenames>
+  </author>
+  <author>
+    <keyname>Collaboration</keyname>
+    <forenames>An important</forenames>
+  </author>
+</authors>
